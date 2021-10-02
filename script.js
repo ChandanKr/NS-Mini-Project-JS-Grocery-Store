@@ -80,3 +80,10 @@ var swiper = new Swiper(".product-slider", {
       },
     },
   });
+
+  window.onclick = () =>{
+    searchForm.classList.remove('active');
+    shoppingCart.classList.remove('active');
+    loginForm.classList.remove('active');
+    navbar.classList.remove('active');
+}
