@@ -701,4 +701,8 @@ section{
         margin: 2rem auto;
     }
 
+    .footer .credit{
+        font-size: 1.2rem;
+    }
+
 }
