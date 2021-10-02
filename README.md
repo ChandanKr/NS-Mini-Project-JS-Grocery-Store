@@ -81,27 +81,27 @@ const proudOfThisFunc = () => {
 
 > - **Home Section:**
 
-![](./images/Screenshots/home1.png)
+![](./image/Screenshots/home1.png)
 
 > - **Features Section:**
 
-![](./images/Screenshots/features2.png)
+![](./image/Screenshots/features2.png)
 
 > - **Products Section:**
 
-![](./images/Screenshots/products3.png)
+![](./image/Screenshots/products3.png)
 
 > - **Product Categories Section:**
 
-![](./images/Screenshots/categories4.png)
+![](./image/Screenshots/categories4.png)
 
 > - **Customer Reviews Section:**
 
-![](./images/Screenshots/reviews5.png)
+![](./image/Screenshots/reviews5.png)
 
 > - **Blogs Section:**
 
-![](./images/Screenshots/blogs6.png)
+![](./image/Screenshots/blogs6.png)
 
 ***[⬆ back to top](#table-of-contents)***
   
